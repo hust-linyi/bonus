@@ -1,5 +1,5 @@
 # BoNuS: Boundary Mining for Nuclei Segmentation with Partial Point Labels
-This is the official code for our IPMI 2023 paper:
+This is the official code for our paper:
 
 > [BoNuS: Boundary Mining for Nuclei Segmentation with Partial Point Labels](https://mc.manuscriptcentral.com/tmi-ieee) <br>
 > Yi Lin*, Zeyu Wang*, Dong Zhang, Kwang-Ting Cheng, and Hao Chen<br>
