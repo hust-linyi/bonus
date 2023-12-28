@@ -1,0 +1,16 @@
+name: bonus
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch
+  - pytorch-cuda=12.1
+  - torchvision
+  - torchaudio
+  - scikit-image
+  - tqdm
+  - scikit-learn
+  - shapely
+  - rich
+  - tensorboardx
+prefix: ~/anaconda3/envs/bonus
