@@ -39,5 +39,10 @@ bash segmentation.sh
 ## Citation
 Please cite the paper if you use the code.
 ```bibtex
-TO BE ADDED
-```
+@article{lin2024bonus,
+  title={BoNuS: Boundary Mining for Nuclei Segmentation with Partial Point Labels},
+  author={Lin, Yi and Wang, Zeyu and Zhang, Dong and Cheng, Kwang-Ting and Chen, Hao},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2024},
+  publisher={IEEE}
+}```
